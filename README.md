@@ -34,8 +34,3 @@ being parsed.
 ## Live preview
 
 https://tesidrah.github.io/qr-code-component/
-
-## Challenge
-
-Frontend Mentor — QR code component
-[Add link to challenge page]
