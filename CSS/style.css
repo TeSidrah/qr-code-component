@@ -1,0 +1,48 @@
+:root{
+    --color-bg:hsl(212, 45%, 89%);
+    --color-card: hsl(0, 0%, 100%);
+    --color-message: hsl(218, 44%, 22%);
+    --color-mute: hsl(216, 15%, 48%);
+
+    --weight-message: 700;
+    --weight-base: 400;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+    background-color: var(--color-bg);
+    color: var(--color-mute);
+    font-family: 'Outfit', sans-serif;
+    font-weight: var(--weight-base);
+    min-height: 100dvh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display: contents;
+}
+
+.card {
+    background-color: var(--color-card);
+    width: 90%;
+    max-width: 320px;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+img {
+    width: 100%;
+    border-radius: 0.5rem;
+}
+
+.message {
+    font-weight: var(--weight-message);  
+}
