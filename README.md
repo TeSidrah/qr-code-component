@@ -33,7 +33,7 @@ being parsed.
 
 ## Live preview
 
-(https://tesidrah.github.io/qr-code-component/)]
+[(https://tesidrah.github.io/qr-code-component/)]
 
 ## Challenge
 
