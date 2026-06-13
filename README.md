@@ -34,3 +34,8 @@ being parsed.
 ## Live preview
 
 https://tesidrah.github.io/qr-code-component/
+
+## Challenge
+
+Frontend Mentor — QR code component
+https://www.frontendmentor.io/solutions/html-css-flexbox-css-custom-properties-wpSTc0Okm-
